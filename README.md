@@ -1,7 +1,7 @@
 # Skincare Product Classification with Qwen2-VL-2B
 This project implements a fine-tuned version of Qwen2-VL-2B for classifying skincare products into 14 categories using product images. The model achieves 50% accuracy, improving from 29.4% in zero-shot performance.
 
-.
+```
 ├── clean_dataset/
 │   ├── images/          # Cleaned and processed product images
 │   └── annotations/     # Product category annotations
@@ -23,7 +23,7 @@ This project implements a fine-tuned version of Qwen2-VL-2B for classifying skin
     ├── logutil.py      # Logging configuration and utilities
     ├── analyse_log.py  # Scraping Log analysis
     └── cleaning.py     # Data cleaning and preprocessing
-
+```
 
 ## Getting Started
 Install dependencies:
