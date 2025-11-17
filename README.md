@@ -41,7 +41,7 @@ The processor will be the one of the base model, the model will be the fine-tune
 
 # Results
 The fine-tuned model shows significant improvements:
-Accuracy: 50.0% (+20.6%)
-F1 Score: 51.0% (+15.0%)
+Accuracy: 50.0% (+70%)
+F1 Score: 51.0% (+42%)
 Better handling of product categories with reduced "Unknown" classifications
 For detailed analysis and future improvement suggestions, refer to the full report.
