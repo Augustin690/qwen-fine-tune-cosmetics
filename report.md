@@ -452,15 +452,15 @@ With that being said, let's dive into the results!
 
 | Metric    | Before Fine-tuning | After Fine-tuning | Change |
 |-----------|-------------------|-------------------|---------|
-| Accuracy  | 29.4%             | 50.0%            | +20.6%  |
-| Precision | 77.4%             | 59.5%            | -17.9%  |
-| Recall    | 29.4%             | 50.0%            | +20.6%  |
-| F1 Score  | 36.0%             | 51.0%            | +15.0%  |
+| Accuracy  | 29.4%             | 50.0%            | +70%    |
+| Precision | 77.4%             | 59.5%            | -30%    |
+| Recall    | 29.4%             | 50.0%            | +70%    |
+| F1 Score  | 36.0%             | 51.0%            | +42%    |
 
 The results show interesting patterns:
 
 1. **Accuracy Improvement**:
-   - Significant increase from 29.4% to 50.0% (+20.6%)
+   - Significant increase from 29.4% to 50.0% (+70%)
    - Model is now correctly classifying half of all test samples
    - This represents a substantial improvement in overall classification performance
 
